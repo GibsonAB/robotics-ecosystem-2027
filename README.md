@@ -1,6 +1,6 @@
 # Robotics Ecosystem 2027
 
-**Planned release · December 13, 2026**
+**Planned release · December 13, 2027**
 
 Robotics Ecosystem 2027 is a local desktop workbench for ROS 2. Open a workspace, build and launch a robot or simulation, inspect the running system, and record or analyze ROS bags.
 
